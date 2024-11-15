@@ -1,1 +1,2 @@
 # Dictionary-Data-
+A command-line application that allows users to search for word definitions with advanced filtering options, such as parts of speech, distinct results, and reverse order. Built using Object-Oriented Programming principles, this project demonstrates modularity, scalability, and robust error handling. Includes a clean separation between core logic (Dictionary.java) and user interaction (InteractiveDictionary.java). Perfect for exploring Java concepts like enums, HashMaps, and interactive CLI design.
