@@ -1,7 +1,7 @@
 
 /****************************************************************
  *
- * File: [Assignment 02]
+ * File: [Dictionary Data]
  * By: [Emmanuel Ogunrinu]
  * Date: [06-21-2024]
  *
